@@ -1,4 +1,5 @@
 # The Hangman
+[![Run on Repl.it](https://replit.com/badge/github/MarioChao/The-Hangman)](https://replit.com/new/github/MarioChao/The-Hangman)
 
 ## Story
 You are invited to test out the new Hangman game coded in C++!<br>
